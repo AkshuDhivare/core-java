@@ -1,1 +1,1 @@
-# core-java
+# Only core java concept based program .
