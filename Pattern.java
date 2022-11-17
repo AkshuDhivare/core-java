@@ -10,3 +10,13 @@ public class pattern {
 		}
    	}
   }
+
+/* output :-
+
+  *
+  **
+  ***
+  ****
+  *****
+  
+*/
